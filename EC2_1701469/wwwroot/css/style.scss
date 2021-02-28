@@ -1,0 +1,23 @@
+﻿body {
+    font-family: 'Nunito', 'sans-serif';
+
+    .inner {
+        background: #3e3e42;
+        padding: 1em;
+        border-radius: 10px;
+
+        inner-area {
+            height: 25vh;
+        } 
+        
+        h1 {
+            color: white;
+            margin: auto;
+        }
+
+        padding {
+            color: white;
+            font-size: .8rem;
+        }
+    }
+}
